@@ -1,0 +1,2 @@
+MainPackage=C:\src\Unity\MR and Computer Vision\MicrosoftStoreApp\MrAndComputerVision_Build\MR and Computer Vision\bin\x86\Release\MR and Computer Vision_1.0.2.0_x86.appx
+SymbolPackage=C:\src\Unity\MR and Computer Vision\MicrosoftStoreApp\MR and Computer Vision_1.0.2.0_Test\MR and Computer Vision_1.0.2.0_x86.appxsym

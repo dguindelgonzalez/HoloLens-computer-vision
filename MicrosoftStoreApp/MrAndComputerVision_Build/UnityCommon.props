@@ -1,0 +1,9 @@
+﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+    <PropertyGroup>
+        <UnityWSASolutionName>MR and Computer Vision</UnityWSASolutionName>
+        <UnityWSASolutionDir>C:\src\Unity\MR and Computer Vision\MicrosoftStoreApp\MrAndComputerVision_Build\</UnityWSASolutionDir>
+        <UnityProjectDir>C:\src\Unity\MR and Computer Vision\</UnityProjectDir>
+        <UnityWSAPlayerDir>C:\Program Files\Unity2017.4.1f1\Editor\Data\PlaybackEngines\MetroSupport\</UnityWSAPlayerDir>
+        <UnityWSAToolsDir>$(UnityWSASolutionDir)Unity\Tools\</UnityWSAToolsDir>
+    </PropertyGroup>
+</Project>

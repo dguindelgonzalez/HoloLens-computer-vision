@@ -1,0 +1,2 @@
+C:\src\Unity\MR and Computer Vision\MicrosoftStoreApp\MrAndComputerVision_Build\GeneratedProjects\UWP\Assembly-CSharp\Assembly-CSharp.csproj;x86
+C:\src\Unity\MR and Computer Vision\MicrosoftStoreApp\MrAndComputerVision_Build\MR and Computer Vision\MR and Computer Vision.csproj;x86
